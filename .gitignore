@@ -1,0 +1,8 @@
+
+# Build
+build/*
+
+
+# Python
+.venv/
+venv/
